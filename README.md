@@ -18,10 +18,7 @@
 
 - ⚡ Fun fact Never Give Up
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-    <a href="https://www.linkedin.com/in/dewanshu-kaushik-067b0a245/" target="blank"><img align="center"
+ <a href="https://www.linkedin.com/in/dewanshu-kaushik-067b0a245/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="dewanshu-kaushik" height="30" width="40" /></a>
     <!-- <a href="https://www.facebook.com/Gaurmayank05" target="blank"><img align="center"
@@ -32,9 +29,7 @@
             alt="mayank___gaur" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/dewanshukaushik" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="dewanshukaushik" height="30" width="40" /></a>
-            
-</p>
+            alt="dewanshukaushik" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
