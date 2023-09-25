@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dewanshukaushik](https://github.com/dewanshukaushik/)
 
-- 💬 Ask me about C, Python, TkInter, Html5, CSS
+- 💬 Ask me about C, Python, Html5, CSS
 
 - 📫 How to reach me dewanshukaushik@gmail.com
 
